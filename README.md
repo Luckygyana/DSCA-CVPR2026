@@ -1,6 +1,6 @@
 # DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing
 
-[Teaser image if you have]
+![DSCA](assets/dsca.jpg)
 
 ## 📄 Paper
 Accepted at CVPR 2026
